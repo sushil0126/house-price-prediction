@@ -164,13 +164,13 @@ house-price-prediction
 ## How to Run the Project
 
 1. Clone the repository:
-   git clone https://github.com/sushil0126/house-price-prediction.git
+- git clone https://github.com/sushil0126/house-price-prediction.git
 2. Navigate to the project directory:
-   cd house-price-prediction
+- cd house-price-prediction
 3. Install required libraries:
-   pip3 install pandas numpy matplotlib seaborn scikit-learn joblib
+- pip3 install pandas numpy matplotlib seaborn scikit-learn joblib
 4. Run the Jupyter Notebook:
-   jupyter notebook 
+- jupyter notebook 
 
 Open `house_price_prediction.ipynb` and run the cells to reproduce the results.
 
