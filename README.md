@@ -12,6 +12,7 @@ This project builds a **House Price Prediction Model** using **Linear Regression
 - [Dataset Preprocessing](#dataset-preprocessing)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Model Training](#model-training)
+- [Model Comparision](#model-comparision)
 - [Model Evaluation](#model-evaluation)
 - [Model Visualization](#model-visualization)
 - [Model Saving](#model-saving)
