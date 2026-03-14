@@ -154,6 +154,7 @@ house-price-prediction
 │   ├── living_area_vs_price.png
 │   └── predicted_vs_actual.png
 │
+├── AmesHousing.csv
 ├── house_price_prediction.ipynb
 ├── houseprediction.pkl
 └── README.md
